@@ -1,0 +1,6 @@
+{
+  "Name": "credit card application",
+  "ProjectType": "Process",
+  "Description": "Blank Process",
+  "MainFile": "Main.xaml"
+}
